@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='operadores'/>
+        <page name='Untitled Page'/>
+        <page name='ano bissexto'/>
+        <page name='diaDaSemana'/>
+        <page name='container'/>
+        <page name='teste'/>
+        <page name='struct'/>
+        <page name='struct2'/>
+        <page name='struct3'/>
+        <page name='funcoes'/>
+        <page name='funcoes2'/>
+        <page name='loop'/>
+        <page name='loop2'/>
+        <page name='loop3'/>
+        <page name='whileLoop'/>
+        <page name='fibonacci'/>
+        <page name='TypeCastings'/>
+        <page name='UserDefaults'/>
+    </pages>
+</playground>
